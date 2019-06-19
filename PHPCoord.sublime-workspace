@@ -1,0 +1,1397 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"source",
+				"$source_keys〔variable〕"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"sou",
+				"$source_keys〔variable〕"
+			],
+			[
+				"fo",
+				"foreach\tforeach …"
+			],
+			[
+				"commer",
+				"commercial_enquiries"
+			],
+			[
+				"lerc",
+				"lerc_share"
+			],
+			[
+				"le",
+				"lerc_share"
+			],
+			[
+				"commercial",
+				"commercial_enquiry"
+			],
+			[
+				"Wil",
+				"WildlifeSite〔namespace〕"
+			],
+			[
+				"Wildl",
+				"WildlifeSiteSummary〔namespace〕"
+			],
+			[
+				"str_rep",
+				"str_replace"
+			],
+			[
+				"taxon_",
+				"taxon_group"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"RDS",
+				"RDS_USERNAME"
+			],
+			[
+				"RDS_",
+				"RDS_DB_NAME"
+			],
+			[
+				"recipiet",
+				"recipients"
+			],
+			[
+				"import",
+				"import_type"
+			],
+			[
+				"files",
+				"files_to_import"
+			],
+			[
+				"rebuild_da",
+				"rebuild_data_record"
+			],
+			[
+				"v",
+				"vertical-align\tproperty"
+			],
+			[
+				"ca",
+				"cat3_json_array"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"taxon",
+				"taxon_nbn_group"
+			],
+			[
+				"last",
+				"last_id_taxon"
+			],
+			[
+				"filetype",
+				"filetype_mime"
+			],
+			[
+				"geom",
+				"geom_type"
+			],
+			[
+				"emapper",
+				"emapper_number"
+			],
+			[
+				"image",
+				"imageGenerator"
+			],
+			[
+				"padding",
+				"padding-bottom\tproperty"
+			],
+			[
+				"mar",
+				"margin-right\tproperty"
+			],
+			[
+				"margi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"is_a",
+				"is_a"
+			],
+			[
+				"class",
+				"class\tclass"
+			],
+			[
+				"cat",
+				"cat_string"
+			],
+			[
+				"dow",
+				"download_shp_poly_search_area"
+			],
+			[
+				"down",
+				"download_shp_poly"
+			],
+			[
+				"download",
+				"download_xml"
+			],
+			[
+				"array_",
+				"array_slice"
+			],
+			[
+				"veri",
+				"verification_level"
+			],
+			[
+				"recor",
+				"records_clean"
+			],
+			[
+				"reco",
+				"records_clean"
+			],
+			[
+				"grid",
+				"grid_square"
+			],
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"term",
+				"term_array"
+			],
+			[
+				"comm",
+				"commercial_enquiry"
+			],
+			[
+				"date_",
+				"date_from"
+			],
+			[
+				"sear",
+				"searches_lerc"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"is_in",
+				"is_int"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"it",
+				"iterations"
+			],
+			[
+				"tax",
+				"taxon_super_groups"
+			],
+			[
+				"data",
+				"data_species"
+			],
+			[
+				"actu",
+				"actual_name_exploded"
+			],
+			[
+				"Geom",
+				"GeomCollectionGeom"
+			],
+			[
+				"description",
+				"description_fields"
+			],
+			[
+				"name",
+				"name_array"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"border-th",
+				"border-width"
+			],
+			[
+				"filename",
+				"filename_base"
+			],
+			[
+				"return",
+				"$return_array〔variable〕"
+			],
+			[
+				"format",
+				"format_number_if_int"
+			],
+			[
+				"wkt",
+				"wkt_4326〔argument〕"
+			],
+			[
+				"searches",
+				"$searches_by_type〔variable〕"
+			],
+			[
+				"sea",
+				"$searches_by_year〔variable〕"
+			],
+			[
+				"com",
+				"commercial_enquiry"
+			],
+			[
+				"hidden-",
+				"hidden-xs"
+			],
+			[
+				"area",
+				"areaFormatted〔variable〕"
+			],
+			[
+				"str_r",
+				"str_replace〔function〕"
+			],
+			[
+				"rows",
+				"$rows_expected〔variable〕"
+			],
+			[
+				"planning_",
+				"planning_authority"
+			],
+			[
+				"exp",
+				"explode〔function〕"
+			],
+			[
+				"polygon",
+				"polygon_counter"
+			],
+			[
+				"pol",
+				"polygon_counter"
+			],
+			[
+				"array_geom",
+				"array_geom_buffered_full"
+			],
+			[
+				"boun",
+				"boundingBox"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"strto",
+				"strtoupper"
+			],
+			[
+				"act",
+				"activeTab"
+			],
+			[
+				"console",
+				"console.log"
+			],
+			[
+				"consol",
+				"console.log"
+			],
+			[
+				"load",
+				"loadmapOverview〔class〕"
+			],
+			[
+				"row",
+				"rowPolygon〔argument〕"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"options_cu",
+				"options_custom_buffer"
+			],
+			[
+				"width",
+				"width: 〔property〕"
+			],
+			[
+				"gallery",
+				"gallery_used_ids"
+			],
+			[
+				"ga",
+				"gallery_total"
+			],
+			[
+				"Re",
+				"Redirect"
+			],
+			[
+				"derf",
+				"derf_files"
+			],
+			[
+				"derfs",
+				"derfs_id"
+			],
+			[
+				"error",
+				"errorsArrayLength"
+			],
+			[
+				"erro",
+				"errorsArrayLength"
+			],
+			[
+				"aja",
+				"ajaxValidationDiv"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"ext",
+				"extension_img"
+			],
+			[
+				"upload_",
+				"upload_parameters"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"appen",
+				"appendTo"
+			],
+			[
+				"library_",
+				"library_item_types_id"
+			],
+			[
+				"libar",
+				"library_items"
+			],
+			[
+				"script",
+				"script_rtvk"
+			],
+			[
+				"login",
+				"login"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"users",
+				"users_count"
+			],
+			[
+				"pass",
+				"password_confirmation"
+			],
+			[
+				"id",
+				"id_check"
+			],
+			[
+				"link_types",
+				"link_types_id"
+			],
+			[
+				"array_u",
+				"array_unique"
+			],
+			[
+				"valid",
+				"validator"
+			],
+			[
+				"check",
+				"check_tandc"
+			],
+			[
+				"st",
+				"strong\tTag"
+			],
+			[
+				"ta",
+				"taxon_groups_all"
+			],
+			[
+				"survey",
+				"survey_name"
+			],
+			[
+				"over",
+				"overview"
+			],
+			[
+				"Data",
+				"DataHoldingsOverviewController"
+			],
+			[
+				"Lib",
+				"LibraryItemController"
+			],
+			[
+				"Link",
+				"LinkController"
+			],
+			[
+				"News",
+				"NewsItemController"
+			],
+			[
+				"Diary",
+				"DiaryEventController"
+			],
+			[
+				"Hom",
+				"HomeItemController"
+			],
+			[
+				"Carousel",
+				"CarouselImageController"
+			],
+			[
+				"red",
+				"recorder"
+			],
+			[
+				"title",
+				"title"
+			],
+			[
+				"rsu",
+				"results_count"
+			],
+			[
+				"res",
+				"results_count"
+			],
+			[
+				"lib",
+				"library_items"
+			],
+			[
+				"library",
+				"library_items"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/OSRef.php",
+			"settings":
+			{
+				"buffer_size": 6720,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "composer.json",
+			"settings":
+			{
+				"buffer_size": 821,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"snipp",
+				"Snippet: html"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"remove a",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"COLOR",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"COLOR ",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"sft",
+				"SFTP: Setup Server…"
+			],
+			[
+				"package con",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package con",
+				"Package Control: Remove Package"
+			],
+			[
+				"Pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"ss jsp",
+				"Set Syntax: Java Server Page (JSP)"
+			],
+			[
+				"ss ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ss gsp",
+				"Set Syntax: Java Server Page (JSP)"
+			]
+		],
+		"width": 576.0
+	},
+	"console":
+	{
+		"height": 168.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp64/www/PHPCoord",
+		"/C/wamp64/www/PHPCoord/src",
+		"/C/wamp64/www/PHPCoord/tests"
+	],
+	"file_history":
+	[
+		"/C/wamp64/www/PHPCoord/tests/OSRefTest.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/lang/en/admin.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/lang/en/breadcrumbs.php",
+		"/C/wamp64/www/aderyn/aderyn/app/Classes/Geom/Geom.php",
+		"/C/wamp64/www/aderyn/aderyn/vendor/php-coord/php-coord/src/OSRef.php",
+		"/C/wamp64/www/aderyn/aderyn/app/Classes/GetPlanningPowys.php",
+		"/C/wamp64/www/aderyn/aderyn/app/Models/System/RebuildDataRecord.php",
+		"/C/wamp64/www/aderyn/aderyn/app/Classes/GeometryHelper.php",
+		"/C/wamp64/www/aderyn/aderyn/composer.json",
+		"/C/wamp64/www/aderyn/aderyn/app/Classes/Geom/Gridref.php",
+		"/C/wamp64/www/aderyn/aderyn/app/Http/routes.php",
+		"/C/wamp64/www/aderyn/aderyn/app/Classes/GeometryHelper_old.php",
+		"/C/wamp64/www/aderyn/aderyn/app/Console/Commands/ImportDataCofnod.php",
+		"/C/wamp64/www/aderyn/aderyn/app/Models/Species/SourcesAdmin.php",
+		"/C/wamp64/www/aderyn/aderyn/app/Classes/SearchHabitats.php",
+		"/C/wamp64/www/aderyn/aderyn/app/Http/Controllers/HabitatController.php",
+		"/C/wamp64/www/aderyn/aderyn/app/Http/Controllers/PlanningApplicationController.php",
+		"/C/wamp64/www/aderyn/aderyn/app/Http/Controllers/SourceController.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/views/pages/admin/source/index.blade.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/views/navbar/dropdowns/admin.blade.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/lang/en/navigation.php",
+		"/C/wamp64/www/aderyn/aderyn/app/Http/Controllers/FileController.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/views/pages/user/index.blade.php",
+		"/C/wamp64/www/aderyn/aderyn/app/Http/Controllers/RebuildDataController.php",
+		"/C/wamp64/www/aderyn/aderyn/app/Console/Commands/ImportDataCsv.php",
+		"/C/wamp64/www/aderyn/aderyn/app/Models/Species/RecordAdmin.php",
+		"/C/wamp64/www/aderyn/aderyn/app/Http/Controllers/AnalysisController.php",
+		"/C/wamp64/www/aderyn/aderyn/app/Models/System/Sources.php",
+		"/C/wamp64/www/aderyn/aderyn/app/Classes/SearchSites.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/views/pages/tools/sites/map.blade.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/views/pages/tools/habitat/index.blade.php",
+		"/C/wamp64/www/aderyn/aderyn/app/Http/Controllers/SitesController.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/assets/js/app.js",
+		"/C/wamp64/www/aderyn/aderyn/app/Helpers/Helpers.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/lang/en/sites.php",
+		"/C/wamp64/www/aderyn/aderyn/app/Classes/SearchData.php",
+		"/C/wamp64/www/aderyn/aderyn/app/Classes/SearchHabitats_old.php",
+		"/C/wamp64/www/aderyn/aderyn/app/Http/Controllers/HabitatController_old.php",
+		"/C/wamp64/www/aderyn/aderyn/.gitignore",
+		"/C/wamp64/www/aderyn/aderyn/resources/lang/en/analysis.php",
+		"/C/wamp64/www/aderyn/aderyn/app/Models/Layers/WildlifeSite.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/lang/en/commercial_enquiries.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/views/pages/lerc/commercial_enquiries/results.blade.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/views/partials/modal_roof_nesting_birds.blade.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/assets/sass/app.scss",
+		"/C/wamp64/www/aderyn/aderyn/resources/assets/sass/forms_old.scss",
+		"/C/wamp64/www/aderyn/aderyn/resources/assets/sass/forms.scss",
+		"/C/wamp64/www/aderyn/aderyn/config/filesystems.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/views/pages/analysis/index.blade.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/views/pages/analysis/commercial_enquiries_lerc.blade.php",
+		"/C/wamp64/www/aderyn/aderyn/app/Http/Controllers/SearchController.php",
+		"/C/wamp64/www/aderyn/aderyn/.env",
+		"/C/wamp64/www/aderyn/aderyn/resources/views/pages/recorder/admin.blade.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/assets/css/libs/font-awesome-5.8.1.css",
+		"/C/wamp64/www/aderyn/aderyn/app/Providers/AppServiceProvider.php",
+		"/C/wamp64/www/aderyn/aderyn/app/Http/Kernel.php",
+		"/C/wamp64/www/aderyn/aderyn/config/app.php",
+		"//bis.local/Users/Users/steve/Downloads/fontawesome-free-5.8.1-web/fontawesome-free-5.8.1-web/scss/_variables.scss",
+		"//bis.local/Users/Users/steve/Downloads/fontawesome-free-5.8.1-web/fontawesome-free-5.8.1-web/scss/solid.scss",
+		"/C/wamp64/www/aderyn/aderyn/app/Exceptions/Handler.php",
+		"/C/wamp64/www/aderyn/aderyn/app/Http/Requests/Partner/SearchRequest.php",
+		"/C/wamp64/www/aderyn/aderyn/app/Http/Controllers/PartnerController.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/views/pages/geolocks/index.blade.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/views/pages/organisation/index.blade.php",
+		"/C/wamp64/www/aderyn/aderyn/app/Models/Layers/WildlifeSiteKey.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/views/pages/tools/sites/index.blade.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/views/pages/tools/sites/partials/modal_search_sites.blade.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/views/pages/tools/sites/results.blade.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/lang/en/planning.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/lang/en/master.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/lang/cy/breadcrumbs.php",
+		"/C/wamp64/www/aderyn/aderyn/app/Http/Controllers/LercController.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/views/pages/search/partials/tab_area2.blade.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/views/pages/search/partials/tab_area.blade.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/views/pages/lerc/data_search.blade.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/views/pages/planning_viewer/partials/modal_search_applications.blade.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/views/pages/planning_viewer/applications.blade.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/views/pages/tools/sites/partials/modal_show.blade.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/views/pages/planning_viewer/index.blade.php",
+		"/C/wamp64/www/aderyn/aderyn/app/Classes/SearchSpecies.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/views/pages/tools/sites/type_paginated.blade.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/views/pages/tools/sites/type.blade.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/views/pages/admin/announcement/index.blade.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/views/pages/collection/all.blade.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/views/pages/search/show.blade.php",
+		"/C/Temp/grassholm.csv",
+		"/C/wamp64/www/aderyn/aderyn/app/Models/System/User.php",
+		"/C/wamp64/www/aderyn/aderyn/app/Models/Layers/WildlifeSiteSummary.php",
+		"/C/wamp64/www/aderyn/aderyn/sftp-config-alt2.json",
+		"/C/wamp64/www/aderyn/aderyn/app/Models/System/GeomCollectionGeom.php",
+		"/C/wamp64/www/aderyn/aderyn/app/Providers/RouteServiceProvider.php",
+		"/C/wamp64/www/aderyn/aderyn/app/Http/Controllers/UserController.php",
+		"/C/wamp64/www/aderyn/aderyn/app/Http/Controllers/ViceCountyController.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/lang/cy/sites.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/lang/en/habitat.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/views/pages/search/index.blade.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/views/navbar/dropdowns/tools.blade.php",
+		"/C/wamp64/www/aderyn/aderyn/app/Http/Requests/Admin/Rebuild/UploadDataRequest.php",
+		"/C/wamp64/www/aderyn/aderyn/app/Classes/SearchSpeciesSummary.php",
+		"/C/wamp64/www/aderyn/aderyn/app/Http/Controllers/PublicController.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/views/pages/public/search_results.blade.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/views/pages/public/search_results_full.blade.php",
+		"//bis.local/Users/Users/steve/Downloads/accounts.sql/accounts.sql",
+		"//bis.local/Users/Users/steve/Downloads/accounts.sql.zip",
+		"/C/wamp64/www/aderyn/aderyn/app/Http/Controllers/CommercialResultsController.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/views/pages/lerc/commercial_enquiries/quote-details.blade.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/lang/en/search.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/views/pages/lerc/commercial_enquiries/search-details.blade.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/lang/cy/commercial_enquiries.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/views/pages/public/search.blade.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/lang/en/user_public.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/views/partials/modal_sensitive_species.blade.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/views/master.blade.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/lang/cy/search.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/views/pages/search/partials/tab_categories.blade.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/views/pages/search/partials/tab_advanced.blade.php",
+		"/C/wamp64/www/aderyn/aderyn/app/Classes/DedupeHelperImproved.php",
+		"/C/wamp64/www/aderyn/aderyn/resources/lang/en/help.php",
+		"/C/wamp64/www/aderyn/aderyn/app/Classes/EmapperHelper.php",
+		"/C/wamp64/www/aderyn/aderyn/app/Http/Controllers/LERCCommercialEnquiriesController.php",
+		"/C/wamp64/www/aderyn/aderyn/app/Http/Controllers/TaxonController.php",
+		"/C/wamp64/www/aderyn/aderyn/app/Http/Controllers/RebuildTaxonController.php",
+		"/C/wamp64/www/aderyn/aderyn/app/Console/Kernel.php",
+		"//bis.local/Users/Users/steve/Downloads/wwb-rep-2019-03-13.csv",
+		"/C/wamp64/bin/apache/apache2.4.27/conf/extra/httpd-vhosts.conf",
+		"//bis.local/Users/Users/steve/Desktop/starburst.html",
+		"//bis.local/Users/Users/steve/Desktop/sunburst_new.html",
+		"//bis.local/Users/Users/steve/Desktop/sunburst_mod.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 144.0,
+		"where_history":
+		[
+			"C:\\wamp64\\www\\aderyn\\aderyn\\app",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\app\\Http",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\resources\\views\\pages\\tools\\sites",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\resources\\views\\pages",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\resources\\lang",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\app\\Http\\Controllers",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\app\\Classes\\Geom",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\app\\Http",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\resources\\lang\\cy",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\resources\\lang",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\app\\Classes",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\app\\Http",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\app\\Classes",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\app\\Http\\Controllers",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\resources\\lang",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\resources\\lang\\en",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\resources\\lang",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\resources\\views\\pages\\recorder",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\app\\Http",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\app\\Models",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\app\\Models\\System",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\app\\Models",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\app\\Http\\Controllers",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\app\\Classes",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\app",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\resources\\lang\\en",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\app\\Http\\Requests\\Admin\\Rebuild",
+			"C:\\wamp64\\www\\aderyn\\aderyn",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\resources\\views",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\app",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\app\\Models",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\resources\\lang",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\app\\Http",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\app\\Http\\Requests\\Recorder",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\app\\Http",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\resources\\views",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\resources\\lang\\en",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\resources\\views\\pages\\search",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\app\\Http\\Controllers",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\app\\Http\\Requests",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\app\\Http",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\resources\\views\\pages\\recorder",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\resources\\views\\pages\\search",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\resources\\views",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\app\\Http\\Controllers",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\app\\Models",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\app",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\resources\\views\\pages",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\resources",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\resources\\views",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\resources\\views\\pages\\lerc\\commercial_enquiries",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\resources\\lang\\en",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\resources\\lang",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\resources\\views\\errors",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\resources\\views\\pages\\search\\partials",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\resources\\lang\\en",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\app\\Http",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\resources\\views\\emails",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\resources\\lang\\en",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\resources\\views\\emails",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\resources\\views\\errors",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\app\\Http\\Controllers",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\app\\Classes",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\app\\Http\\Controllers",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\app\\Classes",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\app\\Classes\\Geom",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\resources\\views",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\app\\Http\\Controllers",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\resources\\lang\\en",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\app\\Http\\Controllers",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\resources\\lang\\en",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\resources",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\app",
+			"C:\\wamp64\\www\\aderyn\\aderyn",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\resources\\views\\pages\\planning_viewer",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\resources\\views\\pages\\planning",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\resources\\lang",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\resources\\views\\navbar",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\resources\\views",
+			"C:\\wamp64\\www\\aderyn\\aderyn\\resources\\views\\pages",
+			"X:\\BIS\\Web\\BIS\\bis.org.uk\\laravel\\app\\Http\\Controllers",
+			"X:\\BIS\\Web\\BIS\\bis.org.uk\\laravel\\resources\\views\\pages",
+			"X:\\BIS\\Web\\BIS\\bis.org.uk\\laravel\\resources\\views\\pages\\derf",
+			"C:\\wamp64\\www\\bis.org.uk\\laravel\\app\\Http\\Controllers",
+			"C:\\wamp\\www\\dev.b-i-s.org\\laravel\\app\\Http\\Controllers",
+			"C:\\wamp\\www\\dev.b-i-s.org\\laravel\\resources\\views",
+			"C:\\wamp\\www\\dev.b-i-s.org\\laravel",
+			"C:\\wamp\\www\\dev.b-i-s.org\\laravel\\app\\Http\\Controllers",
+			"C:\\wamp\\www\\dev.b-i-s.org\\laravel\\app\\views",
+			"C:\\wamp\\www\\dev.b-i-s.org\\laravel\\app",
+			"C:\\wamp\\www\\dev.b-i-s.org\\laravel\\app\\controllers",
+			"C:\\wamp\\www\\dev.b-i-s.org\\laravel\\app\\views",
+			"C:\\wamp\\www\\dev.b-i-s.org\\laravel\\app\\controllers",
+			"C:\\wamp\\www\\dev.b-i-s.org\\laravel\\app\\views",
+			"C:\\wamp\\www\\dev.b-i-s.org\\laravel\\app\\controllers",
+			"\\\\polecat\\c$\\tools\\groovy-1.8.6\\scripts",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"testFrom",
+			"toTenFigureReference",
+			"Easting",
+			"tetrad",
+			"$type;",
+			"majorEasting",
+			"minor",
+			"gridref_to_ne",
+			"SourcesAdmin",
+			"priority",
+			"geom_habitats_unbuffered",
+			"records_habitats_summary",
+			"SearchHabitats",
+			"user.",
+			"18",
+			"$source",
+			"$user->",
+			"index_",
+			"$file->log",
+			"echo",
+			"coutner",
+			"count(id)",
+			"coutn(id)",
+			"DISTINCT",
+			"createTable",
+			"clearEntitiesByPropertyGlobal",
+			"no_records_sites",
+			"{$var",
+			"array(",
+			")",
+			"array(",
+			"array",
+			"array(",
+			"data",
+			"data_",
+			"SearchHabitats",
+			"wkt_4326",
+			"$phase1 = $phase1",
+			"search_polygons",
+			"sites_full",
+			"SearchSites",
+			"habitat",
+			"sites",
+			",",
+			"wkt_site_4326",
+			"addPolygonsSites",
+			"createTable",
+			"$type",
+			"$sites = $sites->",
+			"sites_full",
+			"search_sites_full",
+			"search_",
+			"this->data_",
+			"new SearchSites",
+			"search_sites",
+			"SearchSites",
+			"search_sites",
+			"search_summary",
+			"search_sites",
+			"getSitesSummary",
+			"SearchSites",
+			"use App\\Classes\\SearchSites;\n",
+			"i",
+			"rnb",
+			"$lerc_share",
+			"->perc",
+			"$lerc_share",
+			"lerc_share",
+			"results_delivered",
+			" = 0;",
+			"quote_sent",
+			"species_record",
+			"$path_search",
+			"path_search",
+			"date_from",
+			"table_habitat_disclaimer",
+			"pagelines",
+			"commercial_enquiries_lerc",
+			"th",
+			"analysis.commercial_enquiries_",
+			"commercial_enquiries_",
+			"check",
+			"data-table",
+			"sites_type",
+			"taxon_nbn_groups_dropdown",
+			"name",
+			"'name'",
+			"planning",
+			"applicant",
+			"search_applications",
+			"request",
+			"$sites",
+			"announcements",
+			"->render()",
+			"serial_id",
+			"loadmapSites",
+			"map_overview_polygons",
+			"key",
+			"map-canvas-overview",
+			"map_sites_infobox",
+			"addPolygonsSites",
+			"map-canvas-overview",
+			"'planning.",
+			"show_application",
+			"wkt_site_4326",
+			"wkt_site",
+			"_full",
+			"st_astext",
+			"$wkt",
+			"show_application",
+			"btn-show-planning-application",
+			"application_modal",
+			"record",
+			"show_row",
+			"30",
+			"$type",
+			"_types",
+			"habitat_",
+			"th",
+			"breadcrumbs",
+			"sites",
+			"search_summary",
+			",",
+			"file_columns_failed",
+			"verification_level",
+			"::character varying::text",
+			"download_csv_species_list",
+			"csv"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"table_sites_disclaimer",
+			"if((isset($species_record->resolution)) && ($species_record->resolution <= $species_record->sensitive_resolution))",
+			"RebuildTaxonDictRecord",
+			"RebuildDmtRecord",
+			"\",\"",
+			"button",
+			"trans",
+			"response()->",
+			"// jQuery.event.props.push('dataTransfer');",
+			"//www.bing.com/",
+			"<a class=\"navbar-brand\" href=\"/home\">",
+			"<a href=\"/home\" class=\"dropdown-toggle\" data-toggle=\"dropdown\" title=\"Home\">Home <b class=\"caret\"></b></a>",
+			"st_",
+			"->",
+			"public.st_",
+			"parameters_array",
+			"geom_array",
+			"{{URL::To('search')}}",
+			"Aux5nXhmU24x9ziudvBblElwd-RTVQKo-M1HCFNhokNtuhYo-eUfEMuD2rl8XMHu",
+			"",
+			"Find an LERC",
+			"LERC ",
+			"http://aderyn.lercwales.org.uk/",
+			"http://dat.lercwales.org.uk/",
+			"bis.org.uk",
+			"array('Overview', URL::To('/get_involved/getting_involved'))",
+			"\t\t\t\tarray('Getting Involved', URL::To('/get_involved/getting_involved')),",
+			"\t\t\t\tarray('Newsletters (Other)', URL::To('/library?item_type=3')),\n\t\t\t\tarray('Gallery', URL::To('/gallery'))",
+			"http://localhost:5555/",
+			"Local BAP",
+			"85 plus",
+			"array('What\\'s In My Area', 'http://www.lrcwalesdat.org/', 'hidden-xs hidden-sm', '_blank')",
+			"\t\t\t\tarray('Find an LRC', URL::To('/get_involved/find_an_lrc'), 'hidden-xs hidden-sm'),\n\t\t\t\tarray('Tools', URL::To('/get_involved/tools')),\n\t\t\t\tarray('What\\'s In My Area', 'http://www.lrcwalesdat.org/', 'hidden-xs hidden-sm')\n\t\t\t);",
+			"\t\t\t\tarray('Tools', URL::To('/get_involved/tools')),\n\t\t\t\tarray('What\\'s In My Area', 'http://www.lrcwalesdat.org/', 'hidden-xs hidden-sm')",
+			"4",
+			"3",
+			"2",
+			"1",
+			"{{URL::To('/')}}",
+			"\t\t\t\t\tarray('Tools', URL::To('/get_involved/tools'))",
+			"\t\t\t$dropdown_services = array(\n\t\t\t\tarray('Overview', URL::To('/services/overview')),\n\t\t\t\tarray('Data Enquiry', URL::To('/services/data_enquiry')),\n\t\t\t\tarray('Sample', URL::To('/services/sample'))\n\t\t\t);\n\t\t\tif(Auth::check()===TRUE) { $dropdown_services[] = array('Data Enquiry (Staff)', URL::To('/derf')); }\n\t\t$navbar->addNavItem('Services', '#', 'active', $dropdown_services); //Label, link, class (class can include 'active'), children.\n\t\t\t$dropdown_data_holdings = array(\n\t\t\t\tarray('Overview', URL::To('/data_holdings/overview')),\n\t\t\t\tarray('Analysis', URL::To('/data_holdings/analysis'))\n\t\t\t);\n\t\t$navbar->addNavItem('Data Holdings', '#', NULL, $dropdown_data_holdings); //Label, link, class (class can include 'active'), children.",
+			"\t\t\t$dropdown_services = array(\n\t\t\t\tarray('Overview', URL::To('/services/overview')),\n\t\t\t\tarray('Data Enquiry', URL::To('/services/data_enquiry')),\n\t\t\t\tarray('Sample', URL::To('/services/sample'))\n\t\t\t);\n\t\t\tif(Auth::check()===TRUE) { $dropdown_services[] = array('Data Enquiry (Staff)', URL::To('/derf')); }\n\t\t$navbar->addNavItem('Services', '#', NULL, $dropdown_services); //Label, link, class (class can include 'active'), children.\n\t\t\t$dropdown_data_holdings = array(\n\t\t\t\tarray('Overview', URL::To('/data_holdings/overview')),\n\t\t\t\tarray('Analysis', URL::To('/data_holdings/analysis'))\n\t\t\t);\n\t\t$navbar->addNavItem('Data Holdings', '#', NULL, $dropdown_data_holdings); //Label, link, class (class can include 'active'), children.",
+			"\t\t\t\t$dropdown_services = array(\n\t\t\t\t\tarray('Overview', URL::To('/services/overview')),\n\t\t\t\t\tarray('Data Enquiry', URL::To('/services/data_enquiry')),\n\t\t\t\t\tarray('Sample', URL::To('/services/sample'))\n\t\t\t\t);\n\t\t\t\tif(Auth::check()===TRUE) { $dropdown_services[] = array('Data Enquiry (Staff)', URL::To('/derf')); }\n\t\t\t$navbar->addNavItem('Services', '#', NULL, $dropdown_services); //Label, link, class (class can include 'active'), children.\n\t\t\t\t$dropdown_data_holdings = array(\n\t\t\t\t\tarray('Overview', URL::To('/data_holdings/overview')),\n\t\t\t\t\tarray('Analysis', URL::To('/data_holdings/analysis'))\n\t\t\t\t);\n\t\t\t$navbar->addNavItem('Data Holdings', '#', NULL, $dropdown_data_holdings); //Label, link, class (class can include 'active'), children.",
+			"@section(\"breadcrumbs\")\n  {{ $breadcrumbs->html; }}\n@overwrite",
+			"'hidden-xs hidden-sm'),",
+			"array('Submit a Record', URL::To('/get_involved/submit_a_record'), 'hidden-xs hidden-sm');,",
+			"array('Find an LRC', URL::To('/get_involved/find_an_lrc'), 'hidden-xs hidden-sm');,",
+			"array('Tools', URL::To('/get_involved/tools'))",
+			"\"BIS\", URL::To('/home')",
+			"\t\t\t->with('navbar', $navbar)",
+			"\t\t\t->with('navbar', $navbar)\n\t\t\t->with('breadcrumbs', $breadcrumbs)",
+			"\t\t\t\t\tarray('Overview', URL::To('/data_holdings/overview')),\n\t\t\t\t\tarray('Analysis', URL::To('/data_holdings/analysis'))",
+			"\t\t\t\tarray('Overview', URL::To('/data_holdings/overview')),\n\t\t\t\tarray('Analysis', URL::To('/data_holdings/analysis'))",
+			"\t\t\t\tarray('Gallery', URL::To('/gallery')),\n\t\t\t\tarray('Getting Involved', URL::To('/get_involved/getting_involved')),\n\t\t\t\tarray('Submit a Record', URL::To('/get_involved/submit_a_record')),\n\t\t\t\tarray('Find an Expert', URL::To('/get_involved/find_an_expert')),\n\t\t\t\tarray('Find an LRC', URL::To('/get_involved/find_an_lrc')),\n\t\t\t\tarray('Tools', URL::To('/data_holdings/tools'))",
+			"\t\t\t\tarray('Overview', URL::To('/data_holdings/overview')),\n\t\t\t\tarray('Analysis', URL::To('/data_holdings/analysis'))",
+			"array('News', URL::To('/news')",
+			"array('Events', URL::To('/events')",
+			"array('News', URL::To('/news')",
+			"\t\t/***********************************************************************/\narray('Events', URL::To('/events')Events\n\t\t//Navbar.\n\t\t$navbar = new NavBar(\"BIS\", \"#\");\n\t\t\t$dropdown_about_us = array(\n\t\t\t\tarray('About Us', URL::To('/about_us/about_us')),\n\t\t\t\tarray('Contact Us', URL::To('/about_us/contact_us')),\n\t\t\t\tarray('News', URL::To('/about_us/contact_us'), 'hidden-md hidden-lg'),\n\t\t\t\tarray('Events', URL::To('/about_us/contact_us'), 'hidden-md hidden-lg')\n\t\t\t);\n\t\t$navbar->addNavItem('About Us', '#', NULL, $dropdown_about_us); //Label, link, class (class can include 'active'), children.\n\t\t\t$dropdown_services = array(\n\t\t\t\tarray('Overview', URL::To('/services/overview')),\n\t\t\t\tarray('Data Enquiry', URL::To('/services/data_enquiry')),\n\t\t\t\tarray('Sample', URL::To('/services/sample'))\n\t\t\t);\n\t\t$navbar->addNavItem('Services', '#', NULL, $dropdown_services); //Label, link, class (class can include 'active'), children.\n\t\t\t$dropdown_data_holdings = array(\n\t\t\t\tarray('Overview', URL::To('/data_holdings/overview')),\n\t\t\t\tarray('Tools', URL::To('/data_holdings/tools')),\n\t\t\t\tarray('Analysis', URL::To('/data_holdings/analysis'))\n\t\t\t);\n\t\t\tif(Auth::check()===TRUE) { $dropdown_data_holdings[] = array('Data Enquiry (Staff)', URL::To('/derf')); }\n\t\t$navbar->addNavItem('Data Holdings', '#', NULL, $dropdown_data_holdings); //Label, link, class (class can include 'active'), children.\n\t\t$navbar->addNavItem('News', URL::To('/news'), 'hidden-xs hidden-sm');\n\t\t$navbar->addNavItem('Events', URL::To('/events'), 'hidden-xs hidden-sm');\n\t\t\t$dropdown_library = array(\n\t\t\t\tarray('All Library Items', URL::To('/library')),\n\t\t\t\tarray('Policies &amp; Procedures', URL::To('/library?item_type=1')),\n\t\t\t\tarray('Newsletters (BIS)', URL::To('/library?item_type=2')),\n\t\t\t\tarray('Newsletters (Other)', URL::To('/library?item_type=3'))\n\t\t\t);\n\t\t$navbar->addNavItem('Library', '#', NULL, $dropdown_library); //Label, link, class (class can include 'active'), children.\n\t\t\t$dropdown_get_involved = array(\n\t\t\t\tarray('Gallery', URL::To('/gallery')),\n\t\t\t\tarray('Getting Involved', URL::To('/get_involved/getting_involved')),\n\t\t\t\tarray('Submit a Record', URL::To('/get_involved/submit_a_record')),\n\t\t\t\tarray('Find an Expert', URL::To('/get_involved/find_an_expert')),\n\t\t\t\tarray('Find an LRC', URL::To('/get_involved/find_an_lrc'))\n\t\t\t);\n\t\t$navbar->addNavItem('Get Involved', '#', NULL, $dropdown_get_involved); //Label, link, class (class can include 'active'), children.\n\t\t\t$dropdown_links = array(\n\t\t\t\tarray('All Links', URL::To('/links')),\n\t\t\t\tarray('Local Recording Groups', URL::To('/links?item_type=6')),\n\t\t\t\tarray('Partner Organisations', URL::To('/links?item_type=1')),\n\t\t\t\tarray('Recording Schemes &amp; Societies', URL::To('/links?item_type=2'))\n\t\t\t);\n\t\t$navbar->addNavItem('Links', '#', NULL, $dropdown_links); //Label, link, class (class can include 'active'), children.\n\t\t$navbar->render();\n\n\t\t/***********************************************************************/",
+			"\t\t/***********************************************************************/\narray('News', URL::To('/news')\n\t\t//Navbar.\n\t\t$navbar = new NavBar(\"BIS\", \"#\");\n\t\t\t$dropdown_about_us = array(\n\t\t\t\tarray('About Us', URL::To('/about_us/about_us')),\n\t\t\t\tarray('Contact Us', URL::To('/about_us/contact_us')),\n\t\t\t\tarray('News', URL::To('/about_us/contact_us'), 'hidden-md hidden-lg'),\n\t\t\t\tarray('Events', URL::To('/about_us/contact_us'), 'hidden-md hidden-lg')\n\t\t\t);\n\t\t$navbar->addNavItem('About Us', '#', NULL, $dropdown_about_us); //Label, link, class (class can include 'active'), children.\n\t\t\t$dropdown_services = array(\n\t\t\t\tarray('Overview', URL::To('/services/overview')),\n\t\t\t\tarray('Data Enquiry', URL::To('/services/data_enquiry')),\n\t\t\t\tarray('Sample', URL::To('/services/sample'))\n\t\t\t);\n\t\t$navbar->addNavItem('Services', '#', NULL, $dropdown_services); //Label, link, class (class can include 'active'), children.\n\t\t\t$dropdown_data_holdings = array(\n\t\t\t\tarray('Overview', URL::To('/data_holdings/overview')),\n\t\t\t\tarray('Tools', URL::To('/data_holdings/tools')),\n\t\t\t\tarray('Analysis', URL::To('/data_holdings/analysis'))\n\t\t\t);\n\t\t\tif(Auth::check()===TRUE) { $dropdown_data_holdings[] = array('Data Enquiry (Staff)', URL::To('/derf')); }\n\t\t$navbar->addNavItem('Data Holdings', '#', NULL, $dropdown_data_holdings); //Label, link, class (class can include 'active'), children.\n\t\t$navbar->addNavItem('News', URL::To('/news'), 'hidden-xs hidden-sm');\n\t\t$navbar->addNavItem('Events', URL::To('/events'), 'hidden-xs hidden-sm');\n\t\t\t$dropdown_library = array(\n\t\t\t\tarray('All Library Items', URL::To('/library')),\n\t\t\t\tarray('Policies &amp; Procedures', URL::To('/library?item_type=1')),\n\t\t\t\tarray('Newsletters (BIS)', URL::To('/library?item_type=2')),\n\t\t\t\tarray('Newsletters (Other)', URL::To('/library?item_type=3'))\n\t\t\t);\n\t\t$navbar->addNavItem('Library', '#', NULL, $dropdown_library); //Label, link, class (class can include 'active'), children.\n\t\t\t$dropdown_get_involved = array(\n\t\t\t\tarray('Gallery', URL::To('/gallery')),\n\t\t\t\tarray('Getting Involved', URL::To('/get_involved/getting_involved')),\n\t\t\t\tarray('Submit a Record', URL::To('/get_involved/submit_a_record')),\n\t\t\t\tarray('Find an Expert', URL::To('/get_involved/find_an_expert')),\n\t\t\t\tarray('Find an LRC', URL::To('/get_involved/find_an_lrc'))\n\t\t\t);\n\t\t$navbar->addNavItem('Get Involved', '#', NULL, $dropdown_get_involved); //Label, link, class (class can include 'active'), children.\n\t\t\t$dropdown_links = array(\n\t\t\t\tarray('All Links', URL::To('/links')),\n\t\t\t\tarray('Local Recording Groups', URL::To('/links?item_type=6')),\n\t\t\t\tarray('Partner Organisations', URL::To('/links?item_type=1')),\n\t\t\t\tarray('Recording Schemes &amp; Societies', URL::To('/links?item_type=2'))\n\t\t\t);\n\t\t$navbar->addNavItem('Links', '#', NULL, $dropdown_links); //Label, link, class (class can include 'active'), children.\n\t\t$navbar->render();\n\n\t\t/***********************************************************************/",
+			"\t\t/***********************************************************************/\n\n\t\t//Navbar.\n\t\t$navbar = new NavBar(\"BIS\", \"#\");\n\t\t\t$dropdown_about_us = array(\n\t\t\t\tarray('About Us', URL::To('/about_us/about_us')),\n\t\t\t\tarray('Contact Us', URL::To('/about_us/contact_us')),\n\t\t\t\tarray('News', URL::To('/about_us/contact_us'), 'hidden-md hidden-lg'),\n\t\t\t\tarray('Events', URL::To('/about_us/contact_us'), 'hidden-md hidden-lg')\n\t\t\t);\n\t\t$navbar->addNavItem('About Us', '#', NULL, $dropdown_about_us); //Label, link, class (class can include 'active'), children.\n\t\t\t$dropdown_services = array(\n\t\t\t\tarray('Overview', URL::To('/services/overview')),\n\t\t\t\tarray('Data Enquiry', URL::To('/services/data_enquiry')),\n\t\t\t\tarray('Sample', URL::To('/services/sample'))\n\t\t\t);\n\t\t$navbar->addNavItem('Services', '#', NULL, $dropdown_services); //Label, link, class (class can include 'active'), children.\n\t\t\t$dropdown_data_holdings = array(\n\t\t\t\tarray('Overview', URL::To('/data_holdings/overview')),\n\t\t\t\tarray('Tools', URL::To('/data_holdings/tools')),\n\t\t\t\tarray('Analysis', URL::To('/data_holdings/analysis'))\n\t\t\t);\n\t\t\tif(Auth::check()===TRUE) { $dropdown_data_holdings[] = array('Data Enquiry (Staff)', URL::To('/derf')); }\n\t\t$navbar->addNavItem('Data Holdings', '#', NULL, $dropdown_data_holdings); //Label, link, class (class can include 'active'), children.\n\t\t$navbar->addNavItem('News', URL::To('/news'), 'hidden-xs hidden-sm');\n\t\t$navbar->addNavItem('Events', URL::To('/events'), 'hidden-xs hidden-sm');\n\t\t\t$dropdown_library = array(\n\t\t\t\tarray('All Library Items', URL::To('/library')),\n\t\t\t\tarray('Policies &amp; Procedures', URL::To('/library?item_type=1')),\n\t\t\t\tarray('Newsletters (BIS)', URL::To('/library?item_type=2')),\n\t\t\t\tarray('Newsletters (Other)', URL::To('/library?item_type=3'))\n\t\t\t);\n\t\t$navbar->addNavItem('Library', '#', NULL, $dropdown_library); //Label, link, class (class can include 'active'), children.\n\t\t\t$dropdown_get_involved = array(\n\t\t\t\tarray('Gallery', URL::To('/gallery')),\n\t\t\t\tarray('Getting Involved', URL::To('/get_involved/getting_involved')),\n\t\t\t\tarray('Submit a Record', URL::To('/get_involved/submit_a_record')),\n\t\t\t\tarray('Find an Expert', URL::To('/get_involved/find_an_expert')),\n\t\t\t\tarray('Find an LRC', URL::To('/get_involved/find_an_lrc'))\n\t\t\t);\n\t\t$navbar->addNavItem('Get Involved', '#', NULL, $dropdown_get_involved); //Label, link, class (class can include 'active'), children.\n\t\t\t$dropdown_links = array(\n\t\t\t\tarray('All Links', URL::To('/links')),\n\t\t\t\tarray('Local Recording Groups', URL::To('/links?item_type=6')),\n\t\t\t\tarray('Partner Organisations', URL::To('/links?item_type=1')),\n\t\t\t\tarray('Recording Schemes &amp; Societies', URL::To('/links?item_type=2'))\n\t\t\t);\n\t\t$navbar->addNavItem('Links', '#', NULL, $dropdown_links); //Label, link, class (class can include 'active'), children.\n\t\t$navbar->render();\n\n\t\t/***********************************************************************/",
+			"=>",
+			"\"",
+			"",
+			"1396361774",
+			"\"",
+			"/links/",
+			"$link",
+			"//Link",
+			"$link",
+			"Link",
+			"Link::",
+			"->with('links', $links);",
+			"$links",
+			"'name'=>'Links'",
+			"links/",
+			"pages.links",
+			"->orderBy('id')",
+			"",
+			"->",
+			"btn-xs",
+			"btn-sm",
+			"btn-white",
+			"orderBy('order')",
+			"A4000D",
+			"C6000F",
+			"B9000E",
+			"A4000D",
+			"C6000F",
+			"FF0016",
+			"@media (max-width: 767px)",
+			"@media (max-width: 787px)",
+			"@media (max-width: 747px)",
+			"2306,",
+			"2305,",
+			"2304"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\wamp64\\www\\PHPCoord"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/OSRef.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6720,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1637,
+								1637
+							]
+						],
+						"settings":
+						{
+							"SL.13.region_keys":
+							[
+							],
+							"SL.32.region_keys":
+							[
+							],
+							"SL.38.region_keys":
+							[
+							],
+							"SL.53.region_keys":
+							[
+							],
+							"SL.54.region_keys":
+							[
+							],
+							"SL.76.region_keys":
+							[
+							],
+							"auto_complete": false,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3415.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "composer.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 821,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 51.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 174.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 168.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 405.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"CommercialResultsController",
+				"aderyn\\app\\Http\\Controllers\\CommercialResultsController.php"
+			],
+			[
+				"file\\in",
+				"aderyn\\resources\\views\\pages\\file\\index.blade.php"
+			],
+			[
+				"create_file",
+				"aderyn\\database\\migrations\\2016_06_14_093825_create_files_table.php"
+			],
+			[
+				"master",
+				"aderyn\\resources\\lang\\en\\master.php"
+			],
+			[
+				"illuminate\\routing\\ro",
+				"aderyn\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php"
+			],
+			[
+				"authenticatesuser",
+				"aderyn\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Auth\\AuthenticatesUsers.php"
+			],
+			[
+				"authenticates and ",
+				"aderyn\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Auth\\AuthenticatesAndRegistersUsers.php"
+			],
+			[
+				"foundation help",
+				"aderyn\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\helpers.php"
+			],
+			[
+				"recorder",
+				"aderyn\\app\\Http\\Controllers\\RecorderController.php"
+			],
+			[
+				"destroytaxon",
+				"aderyn\\app\\Http\\Requests\\Recorder\\DestroyTaxonSuperGroupRequest.php"
+			],
+			[
+				"routes",
+				"aderyn\\app\\Http\\routes.php"
+			],
+			[
+				"search.p",
+				"aderyn\\app\\Models\\System\\Search.php"
+			],
+			[
+				"config",
+				"grails-app/conf/Config.groovy"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 798.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 380.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
