@@ -54,10 +54,12 @@ $long = $LatLng->getLng();
 
 $LatLng = new LatLng(50.12345, 1.23456, 0, RefEll::wgs84()); //Latitude, Long, height
 $OSRef = $LatLng->toOSRef();
+$GridReference = $OSRef->toGridReference(10); //TW3129729828
 
 $easting = $OSRef->getX();
 $northing = $OSRef->getY();
 
+//Tetrad support.
 $OSRef = OSRef::fromGridReference('SO24G');
 
 $OSRef = new OSRef(216604, 771209);
