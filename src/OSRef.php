@@ -15,6 +15,7 @@ use function strpos;
  *
  * @author Jonathan Stott
  * @author Doug Wright
+ * @author Steve Goddard
  */
 class OSRef extends TransverseMercator
 {
