@@ -10,6 +10,7 @@ Conversion/modernisation/enhancement of phpcoord.
 
 
 The original code by Jonathan Stott can be found at http://www.jstott.me.uk/phpcoord/
+
 This package has been forked from https://github.com/dvdoug/PHPCoord and then updated to support tetrad grid references.
 
 PHPCoord is a set of PHP functions for handling various co-ordinate systems and converting
